@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.34930.48
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{5B32C0FB-53EA-4A55-A077-60E5789A16B7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy", "Academy\Academy.csproj", "{D47989AA-DE10-415D-85FE-1B35B9019AD2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitwiseOperations", "BitwiseOperations\BitwiseOperations.vcxproj", "{6AF9A476-9CF4-457D-AC9F-B21E36E9FC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "academyDataSet", "academyDataSet\academyDataSet.csproj", "{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,18 @@ Global
 		{6AF9A476-9CF4-457D-AC9F-B21E36E9FC71}.Release|x64.Build.0 = Release|x64
 		{6AF9A476-9CF4-457D-AC9F-B21E36E9FC71}.Release|x86.ActiveCfg = Release|Win32
 		{6AF9A476-9CF4-457D-AC9F-B21E36E9FC71}.Release|x86.Build.0 = Release|Win32
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Debug|x64.Build.0 = Debug|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Debug|x86.Build.0 = Debug|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Release|x64.ActiveCfg = Release|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Release|x64.Build.0 = Release|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Release|x86.ActiveCfg = Release|Any CPU
+		{3EC59815-EA20-41AB-A1C1-8CEE1BC19F63}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
